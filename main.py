@@ -41,7 +41,7 @@ def create_data(file_name_input,file_name_output):
 
 
 
-
+df
 
 
 def unpack_images(patient,labels,csv_writer):
